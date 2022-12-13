@@ -84,3 +84,4 @@ bin/datas/
 
 # local nginx.conf
 bin/nginx.conf
+djangoblog/settings.py
